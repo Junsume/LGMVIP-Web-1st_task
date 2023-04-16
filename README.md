@@ -1,3 +1,3 @@
 # LGMVIP-Web-1st_task
 
-tHIS IS A TO-DO-LIST
+THIS IS A TO-DO-LIST
